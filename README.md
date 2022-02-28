@@ -1,4 +1,4 @@
-# ICS2O-Unit1-04-HTML
+# ICS2O-Unit1-04-HTML-CSS
 
 [![GitHub's Super Linter](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit1-04-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit1-04-HTML/actions)
 
